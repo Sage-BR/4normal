@@ -1,0 +1,1 @@
+{"openvpn":{"connect:tls_version_min_override":"disabled","connect:google_dns_fallback":true,"connect:shortcutMinimize":false,"connect:vpn_proto":"adaptive"}}
